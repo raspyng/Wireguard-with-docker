@@ -1,1 +1,1 @@
-# Wireguard-with-docker
+sudo apt update && sudo apt upgrade
